@@ -1,7 +1,7 @@
-# Power BI Project – Telecom Sales Report (AdventureWorks 2019)
+# Power BI Project – Sales Report (AdventureWorks 2019)
 **Work Sample by Erfan Mirzakhani**
 
-This interactive Power BI report is built using the AdventureWorks 2019 dataset and simulates sales performance reporting for a **telecom business scenario**. It demonstrates skills in data modeling, DAX, UX design, slicer logic, bookmarks, drilldowns, conditional formatting, and mobile view customization.
+This interactive Power BI report is built using the AdventureWorks 2019 dataset and simulates sales performance reporting. It demonstrates skills in data modeling, DAX, UX design, slicer logic, bookmarks, drilldowns, conditional formatting, and mobile view customization.
 
 ---
 
