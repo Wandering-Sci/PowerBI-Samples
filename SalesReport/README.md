@@ -5,22 +5,22 @@ This interactive Power BI report is built using the AdventureWorks 2019 dataset 
 
 ---
 
-## ⚙️ Features Overview
+##  Features Overview
 
-### ✅ **Row-Level Security (RLS)**
+###  **Row-Level Security (RLS)**
 - Configured and tested for access based on country region roles.
 
-### ✅ **Mobile View**
+###  **Mobile View**
 - Optimized layout for mobile display.
 - Horizontal, repositioned navigation menu on top (manually redesigned for responsiveness).
 
-### ✅ **Custom Navigation**
+###  **Custom Navigation**
 - Bookmark-based sidebar menu on every page.
 - Reset filter buttons using bookmarks and slicer groups.
 
 ---
 
-## 📊 Pages & Visuals
+##  Pages & Visuals
 
 ### **1. Sales Overview**
 - **Visuals:**
@@ -68,7 +68,7 @@ This interactive Power BI report is built using the AdventureWorks 2019 dataset 
 
 ---
 
-## 🛠️ Technical Details
+##  Technical Details
 
 - **Data Source:** AdventureWorksDW2019 (sample data modified for telecom-like scenario)
 - **Data Modeling:** Star schema, relationships between Dim and Fact tables
@@ -81,13 +81,13 @@ This interactive Power BI report is built using the AdventureWorks 2019 dataset 
 
 ---
 
-## 📁 Files Included
+##  Files Included
 - `SalesReport.pbix`
 - `README.md`
 
 ---
 
-## 🧠 Author
+##  Author
 **Erfan Mirzakhani**  
 Business Data Analyst | Data-Driven Decision Making | BI & Data Analytics 
 LinkedIn: https://www.linkedin.com/in/erfanmirzakhani
