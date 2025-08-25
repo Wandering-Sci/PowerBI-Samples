@@ -82,7 +82,7 @@ This interactive Power BI report is built using the AdventureWorks 2019 dataset 
 ---
 
 ## 📁 Files Included
-- `TelecomSalesReport.pbix`
+- `SalesReport.pbix`
 - `README.md`
 
 ---
